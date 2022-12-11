@@ -1,0 +1,30 @@
+
+One-Line Answers
+
+1.What is reverse-i-search in a Linux terminal?
+
+-->reverse-i-search: Search backward starting at the current line and moving ‘up’ through the history as necessary.
+   It is an incremental search.
+	Press the ctrl key and the r key simultaneously, and pattren which will match our previes cmmd.
+A prompt will appear like so:$(reverse-i-search)':
+	Start typing what you remember of your command. You will see the latest command from your history that matches your search term.
+	Press ctrl + r again to navigate through earlier entries in your history that match your search term.
+
+2. How do you list out the hidden directories using Linux command line tool?
+
+-->The ls command is a widely used Linux command. In its simplest form, the command lists files and folders within a directory.
+   However, ls doesn't list hidden files by default.To show hidden files you must use the -a option, 
+   which commands ls to list "all" files and folders (including hidden ones).
+
+3. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+
+-->linux-I can excute the commands.
+
+4. Have you ever used Servers to host any web applications in the past? If yes, what
+   services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+--> NO, 
+
+
+
+	
